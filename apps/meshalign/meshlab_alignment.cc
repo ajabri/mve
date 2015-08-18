@@ -4,7 +4,7 @@
 #include <cerrno>
 
 #include "util/exception.h"
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "util/file_system.h"
 #include "util/tokenizer.h"
 #include "mve/mesh_io.h"

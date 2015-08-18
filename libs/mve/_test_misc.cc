@@ -3,10 +3,10 @@
 #include <cstring>
 #include <cerrno>
 
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "util/timer.h"
 #include "util/system.h"
-#include "util/endian.h"
+#include "util/endian_mve.h"
 #include "util/file_system.h"
 #include "math/vector.h"
 #include "math/matrix.h"

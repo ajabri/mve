@@ -9,7 +9,7 @@
 #include <istream>
 #include <string>
 
-#include "util/endian.h"
+#include "util/endian_mve.h"
 #include "mve/defines.h"
 #include "mve/image.h"
 #include "mve/camera.h"

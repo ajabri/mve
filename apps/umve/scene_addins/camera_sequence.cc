@@ -5,7 +5,7 @@
 
 #include "util/exception.h"
 #include "util/tokenizer.h"
-#include "util/string.h"
+#include "util/string_mve.h"
 
 #include "scene_addins/camera_sequence.h"
 

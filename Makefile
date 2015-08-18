@@ -1,3 +1,5 @@
+#LDFLAGS=-L/n/fs/hog2photo/SUNglass/root/usr/lib64
+LDLIBS += -L$(SG)/root/usr/lib64 -L$(SG)/root/usr/lib
 all:
 	$(MAKE) -C libs
 	$(MAKE) -C apps

@@ -3,7 +3,7 @@
 
 #include <gtest/gtest.h>
 
-#include "util/string.h"
+#include "util/string_mve.h"
 
 TEST(StringTest, LowerUpperCaseTest)
 {

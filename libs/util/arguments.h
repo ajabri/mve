@@ -11,7 +11,7 @@
 #include <string>
 #include <stdexcept>
 
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "util/defines.h"
 #include "util/exception.h"
 

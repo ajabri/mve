@@ -1,6 +1,6 @@
 #include <QLineEdit>
 
-#include "util/string.h"
+#include "util/string_mve.h"
 
 #include "guihelpers.h"
 #include "scenemanager.h"

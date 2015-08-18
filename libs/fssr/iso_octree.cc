@@ -14,7 +14,7 @@
 #include <limits>
 
 #include "util/timer.h"
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "fssr/basis_function.h"
 #include "fssr/sample.h"
 #include "fssr/iso_octree.h"

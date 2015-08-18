@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "util/timer.h"
 #include "math/vector.h"
 #include "math/matrix.h"

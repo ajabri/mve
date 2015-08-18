@@ -3,7 +3,7 @@
 
 #include <QThreadPool>
 
-#include "util/string.h"
+#include "util/string_mve.h"
 
 #include "jobqueue.h"
 

@@ -25,7 +25,7 @@
 #include "math/matrix_tools.h"
 #include "math/algo.h"
 #include "util/arguments.h"
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "util/file_system.h"
 #include "util/tokenizer.h"
 #include "mve/bundle.h"

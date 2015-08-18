@@ -4,7 +4,7 @@
 #include <iomanip>
 #include <limits>
 
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "util/tokenizer.h"
 #include "util/arguments.h"
 

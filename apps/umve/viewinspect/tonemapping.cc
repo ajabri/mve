@@ -8,7 +8,7 @@
 #include <QRadioButton>
 
 #include "util/timer.h"
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "mve/image.h"
 #include "mve/image_tools.h"
 

@@ -4,6 +4,7 @@
 #include <cctype>
 #include <cerrno> // errno
 #include <cstring> // std::strerror
+#include <string>
 #include <cstdio> // std::rename
 #include <algorithm>
 

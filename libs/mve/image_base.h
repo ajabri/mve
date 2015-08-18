@@ -9,7 +9,7 @@
 #include <vector>
 
 #include "util/stdint_compat.h"
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "util/ref_ptr.h"
 #include "mve/defines.h"
 

@@ -6,7 +6,7 @@
 #include "util/tokenizer.h"
 #include "util/exception.h"
 #include "util/file_system.h"
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "mve/image.h"
 #include "mve/view.h"
 

@@ -1,6 +1,6 @@
 #include <stdexcept>
 
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "mve/mesh.h"
 #include "mve/mesh_io.h"
 #include "mve/mesh_io_ply.h"

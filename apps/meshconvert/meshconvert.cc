@@ -3,7 +3,7 @@
 #include <string>
 
 #include "util/arguments.h"
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "mve/mesh_io.h"
 #include "mve/mesh_io_ply.h"
 

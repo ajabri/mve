@@ -10,7 +10,7 @@
 #include <QColorDialog>
 
 #include "util/file_system.h"
-#include "util/string.h"
+#include "util/string_mve.h"
 #include "mve/mesh.h"
 #include "mve/mesh_io.h"
 #include "mve/mesh_tools.h"
